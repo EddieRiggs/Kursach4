@@ -1,0 +1,7 @@
+﻿  output.cpp
+  select.cpp
+  Создание кода...
+C:\Users\Desktop\Kursach4\output.cpp(28): warning C4172: возвращение адреса локальной или временной переменной : str
+C:\Users\Desktop\Kursach4\output.cpp(54): warning C4172: возвращение адреса локальной или временной переменной : str
+C:\Users\Desktop\Kursach4\output.cpp(43): warning C4172: возвращение адреса локальной или временной переменной : str
+  Kursach.vcxproj -> C:\Users\Desktop\Kursach4\x64\Debug\Kursach.exe
